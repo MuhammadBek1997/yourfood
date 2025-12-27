@@ -157,3 +157,27 @@ header{
     margin-left: 50px;
     margin-top: 30px
 }
+
+body{
+    width: 1440px;
+    background: white;
+}
+
+.limon{
+    width: 1440px;
+    height: 284px;
+    display: flex;
+    
+    background: url(images/bg.png) no-repeat;
+}
+.mevalar{
+    display: flex;
+    margin-left: 18pc;
+}
+.map{
+    width: 1440px;
+    height: 700px;
+    text-align: center;
+    background: white;
+    margin-top: 5pc;
+}
