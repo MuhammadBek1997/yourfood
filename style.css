@@ -1,4 +1,11 @@
 *{
+  margin: 0;
+  padding: 0;
+}
+.slider-wrapper {
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
     margin: 0;
     padding: 0;
 }
