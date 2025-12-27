@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;
@@ -59,7 +59,6 @@ header{
     font-size: 20px;
     color: #3F4255;
 }
-
 .container {
   max-width: 1100px;
   margin: 80px auto;
@@ -163,7 +162,6 @@ body{
     width: 1440px;
     background: white;
 }
-
 .limon{
     width: 1440px;
     height: 284px;
@@ -182,7 +180,6 @@ body{
     background: white;
     margin-top: 5pc;
 }
-=======
 body {
     max-width: 1920px;
 }
@@ -215,4 +212,62 @@ body {
     font-size: 322px;
     font-weight: 400;
 }
->>>>>>> elyor
+footer {
+    width: 1600px;
+    height: 437px;
+    background: #3F4255;
+}
+.footer-cont {
+    display: flex;
+}
+.footer-cont-img {
+    margin-top: 15px;
+    padding-left: 130px;
+}
+.footer-cont-img h3 {
+    width: 60px;
+    color: white;
+    background: 0px 12px url(./images/Rectangle\ 19.png) no-repeat;
+}
+.footer-cont-img-photo {
+    padding-left: -200px;
+    margin-top: 20px;
+}
+.footer-cont-text {
+    margin-top: 15px;
+    display: flex;
+    color: white;
+    padding-left: 200px;
+    gap: 80px;
+}
+.footer-cont-text a {
+    color: #D4D7E5;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.footer-cont-text1 {
+    flex-direction: column;
+    display: flex;
+}
+.footer-cont-text2 {
+    flex-direction: column;
+    display: flex;
+}
+.footer-cont-text3 {
+    flex-direction: column;
+    display: flex;
+}
+.footer-img {
+    padding-left: 130px;
+    margin-top: 90px;
+    gap: 650px;
+    display: flex;
+}
+.footer-img img {
+    margin-left: 16px;
+}
+.footer-img a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 39px;
+}
